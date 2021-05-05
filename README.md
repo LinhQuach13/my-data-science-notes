@@ -41,8 +41,8 @@ To delete repository:
    1) Go to repo you want to delete
   
    2) Setting < Danger Zone < Delete this repository
-      -Note: Cannot delete repository from command line window
-      -Note: This is a LAST resort try NOT to delete any repositories
+      - Note: Cannot delete repository from command line window
+      - Note: This is a LAST resort try NOT to delete any repositories
 
 
 
