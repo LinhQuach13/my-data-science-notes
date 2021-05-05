@@ -1,4 +1,4 @@
-###############GIT###############
+# GIT
 
 
 Git is good for complex source code and is used a as "backup" 
@@ -7,7 +7,7 @@ Github does not run code, it's only saving our code, not launching code
 
 
 
-#Repository in Git
+# Repository in Git
 
 Repo is "folder git is paying attention to", you are telling git to pay attention to specific folders by doing repositories
 Git tracks by line NOT by letter
@@ -15,7 +15,8 @@ Git tracks by line NOT by letter
 Want all commits to have unique commmit name
    -this is the reason the commit names are numeric and non-repeating
    
-TWO WAYS TO MAKE REPOS(in command window):
+## TWO WAYS TO MAKE REPOS(in command window):
+
 
    1) Manually: Will neeed to create folder and follow directions in notes
   
@@ -29,7 +30,7 @@ TWO WAYS TO MAKE REPOS(in command window):
 
 
 
-#Github Website
+# Github Website
 
 Issues: this is similar to a discussion forum
 
@@ -44,7 +45,7 @@ To delete repository:
 
 
 
-#Parallel Universe (Github website)
+# Parallel Universe (Github website)
 
 Looking at switch/branches/tags list you can see all the different branches listed and they are all active at the same time = Parallel Universe
 
@@ -52,14 +53,14 @@ Looking at switch/branches/tags list you can see all the different branches list
           -example: Companies may still use older versions b/c the newer versions need approval for security reasons before they can switch to the newer version.
 
 
-     #Working in Command line 
+     # Working in Command line 
      Master is the same as branch main
         
         Daily workflow: git add, git commit, git push
-
-          git add: analogy- putting it in the envelope
-          git commit: analogy- sealing the envelope
-          git push: sending the envelope
+        
+          git add: analogy- similar to putting it in the envelope
+          git commit: analogy- similar to sealing the envelope
+          git push: analogy- similar to sending the envelope
 
 
 
