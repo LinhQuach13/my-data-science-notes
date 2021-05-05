@@ -18,7 +18,7 @@ Want all commits to have unique commmit name
 ## TWO WAYS TO MAKE REPOS (in command window):
 
 
-   1) Manually: Will neeed to create folder and follow directions in notes
+   1) Manually: Will need to create folder and follow directions from curriculum notes
   
    2)Clone Method:
       Create a repo in Github Website
