@@ -15,7 +15,7 @@ Git tracks by line NOT by letter
 Want all commits to have unique commmit name
    -this is the reason the commit names are numeric and non-repeating
    
-## TWO WAYS TO MAKE REPOS(in command window):
+## TWO WAYS TO MAKE REPOS (in command window):
 
 
    1) Manually: Will neeed to create folder and follow directions in notes
@@ -65,25 +65,24 @@ Looking at switch/branches/tags list you can see all the different branches list
 
 
 
-
-          ###############SQL###############
+## SQL
           SQL is the most common database manager.
 
           Queries are questions.
 
 
-          #SQL client and Server:
+          ## SQL client and Server:
            - Client: What SQL interacts with.
            - Server: Waits for directions from SQL.
 
-           #SQL Databases:
+           ## SQL Databases:
            -SQL is case insensitive and spaces do not affect SQL.
            -Keep in mind SQL runs from top to bottom; No loops in SQL.
            -If SQL returns null it means you do not have a database selected.
            -Note: ` ` are valid identifiers in SQL.
 
 
-           #SQL Tables:
+           ## SQL Tables:
            -SQL has strict data types and unlike spreadsheets, Database tables have a specific set of columns.
            -Databases (DB) are structure this way to help with better data integrity.
            -Use decimal for dollar and cent amounts and not float. This is because float will cause rounding errors.
@@ -92,7 +91,7 @@ Looking at switch/branches/tags list you can see all the different branches list
            - Foreign key: If table is referencing another table's keys (i.e. Primary key) then that tables has a foreign key because it's referencing another table.
 
 
-           #SQL Clauses:
+           ## SQL Clauses:
            Order of Elements when there are multiple elements (MUST BE IN THIS ORDER):
            1) SELECT
            2) FROM
