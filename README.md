@@ -50,10 +50,11 @@ To delete repository:
 
 # Parallel Universe (Github website)
 
-Looking at switch/branches/tags list you can see all the different branches listed and they are all active at the same time = Parallel Universe
+- Looking at switch/branches/tags list you can see all the different branches listed and they are all active at the same time = Parallel Universe
 
    - people use older versions still and so older versions are still maintained.
-          -example: Companies may still use older versions b/c the newer versions need approval for security reasons before they can switch to the newer version.
+         
+         - example: Companies may still use older versions b/c the newer versions need approval for security reasons before they can switch to the newer version.
 
 
      # Working in Command line 
