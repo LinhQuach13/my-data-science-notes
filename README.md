@@ -1,9 +1,9 @@
 # GIT
 
 
-Git is good for complex source code and is used a as "backup" 
-Github does not run code, it's only saving our code, not launching code
-  -Github can only run markdowns
+- Git is good for complex source code and is used a as "backup" 
+- Github does not run code, it's only saving our code, not launching code
+  - Github can only run markdowns
 
 
 
