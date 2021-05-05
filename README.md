@@ -21,11 +21,13 @@ Want all commits to have unique commmit name
    1) Manually: Will need to create folder and follow directions from curriculum notes
   
    2)Clone Method:
-      Create a repo in Github Website
-      Do git clone REMOTE_URL
-        -->replace REMOTE_URL with the URL from github
-        --> this method will create everything from the folder/directory to all the repo steps in between automatically.
-        --->keep in mind in this method will not need to manually make a directories/folders
+   
+   - a. Create a repo in Github Website
+   - b. Do git clone REMOTE_URL
+        - -->replace REMOTE_URL with the URL from github
+        - --> Do this step in the terminal window
+        - --> this method will create everything from the folder/directory to all the repo steps in between automatically.
+        - --->keep in mind in this method will not need to manually make a directories/folders
 
 
 
