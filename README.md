@@ -117,6 +117,9 @@ To delete repository:
 - all aggregate functions above ignore NULL values except for the COUNT function.
 
 
+## SQL Scalar Subqueries
+- A scalar subquery is a subquery that selects only one column or expression and returns one row. A scalar subquery can be used anywhere in an SQL query that a column or expression can be used.
+
 
            
 
