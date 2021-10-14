@@ -104,6 +104,18 @@ To delete repository:
            5) HAVING
            6) ORDER BY
 
+## SQL Aggregation Functions:
+- An aggregate function allows you to perform a calculation on a set of values to return a single scalar value. Aggregate functions typically used with the GROUP BY and HAVING clauses of the SELECT statement.
+
+- The following are the most commonly used SQL aggregate functions:
+
+  - AVG – calculates the average of a set of values.
+  - COUNT – counts rows in a specified table or view.
+  - MIN – gets the minimum value in a set of values.
+  - MAX – gets the maximum value in a set of values.
+  - SUM – calculates the sum of values.
+- all aggregate functions above ignore NULL values except for the COUNT function.
+
 
 
            
